@@ -1,6 +1,13 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=senolomer0&show_icons=true&theme=highcontrast">
 
-# Merhaba, ben Ömer Şenol! 
+# Hello, I am Ömer Şenol!
+
+
+As a 3rd year computer engineering student, 
+I love learning new things and sharing
+this knowledge with people. In particular, 
+I am trying to improve myself in data science, 
+machine learning and deep learning with Python.
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omersenol/)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://senolomer0.medium.com)
