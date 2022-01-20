@@ -26,5 +26,4 @@ machine learning and deep learning with Python.
       alt="_._.adam._" height="30" width="40" /></a>
  </p>
 
-<a target="_blank" href="omersenol321@gmail.com"
-><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="omersenol321@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
