@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=senolomer0&show_icons=true&theme=highcontrast">
+
 
 # Hello, I am Ömer Şenol!
 
