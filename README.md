@@ -13,3 +13,7 @@ machine learning and deep learning with Python.
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://senolomer0.medium.com)
 [![](https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/omersenol)
 [![Mail Badge](https://img.shields.io/badge/omersenol321@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:omersenol321@gmail.com)](mailto:omersenol321@gmail.com)
+
+<a href="https://www.linkedin.com/in/omersenol/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a>
