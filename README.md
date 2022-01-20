@@ -3,6 +3,8 @@
 # Hello 👋 I am Ömer Şenol! <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 
+[![Mail Badge](https://img.shields.io/badge/omersenol321@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:omersenol321@gmail.com)](mailto:omersenol321@gmail.com)
+
 As a 3rd year computer engineering student, 
 I love learning new things and sharing
 this knowledge with people. In particular, 
@@ -25,4 +27,4 @@ machine learning and deep learning with Python.
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
  </p>
-[![Mail Badge](https://img.shields.io/badge/omersenol321@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:omersenol321@gmail.com)](mailto:omersenol321@gmail.com)
+
