@@ -25,7 +25,7 @@ machine learning and deep learning with Python.
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
  </p>
-
+[![Mail Badge](https://img.shields.io/badge/buse.koseoglu13@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:buse.koseoglu13@gmail.com)](mailto:buse.koseoglu13@gmail.com)
  <a href="mailto:buse.koseoglu13@gmail.com" target="blank"><img align="rigt"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg"
       alt="_._.adam._" height="30" width="40" /></a>
