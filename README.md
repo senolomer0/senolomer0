@@ -9,6 +9,7 @@ this knowledge with people. In particular,
 I am trying to improve myself in data science, 
 machine learning and deep learning with Python.
 
+<p></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/omersenol/" target="blank"><img align="center"
