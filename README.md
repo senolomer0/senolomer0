@@ -26,5 +26,5 @@ machine learning and deep learning with Python.
   <a href="https://www.instagram.com/omersnol/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
-  <a href = 'mailto:omersenol321@gmail.com'> <img align="center" width = '32px' align= 'center'              src="https://raw.githubusercontent.com/MuharremKoroglu/MuharremKoroglu/main/gmail-logo-2561.svg"/></a>
+  <a href = 'mailto:omersenol321@gmail.com'> <img align="center" height ="30" width = '40px' align= 'center'              src="https://raw.githubusercontent.com/MuharremKoroglu/MuharremKoroglu/main/gmail-logo-2561.svg"/></a>
  </p>
