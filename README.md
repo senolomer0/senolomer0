@@ -5,7 +5,7 @@
 
 
 
-As a 3rd year computer engineering student, 
+As a 4th year computer engineering student, 
 I love learning new things and sharing
 this knowledge with people. In particular, 
 I am trying to improve myself in data science, 
